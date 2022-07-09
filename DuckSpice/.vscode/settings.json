@@ -1,0 +1,21 @@
+{
+    "editor.codeLens": false,
+    "git.ignoreMissingGitWarning": true,
+    "workbench.startupEditor": "none",
+    "files.exclude": {
+        // File to hidden
+        "**/*.meta": true,
+        "**/*.csproj": true,
+        // Folder to hidden
+        "Keystore": true,
+        "Library": true,
+        "obj": true,
+        "Logs": true,
+        "Packages": true,
+        "Temp": true,
+        "UserSettings": true,
+        "ProjectSettings": true,
+        "UIElementsSchema": true,
+    },
+    "synthwave84.brightness": 0.45
+}
